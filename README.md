@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about different programming roadmaps
 - 📫 How to reach me: manojvayu@gmail.com
 - ⚡ Fun fact: Everyday is a new opportunity
+-->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manojvayu&show_icons=true&theme=tokyonight) -->
 
--->
+
